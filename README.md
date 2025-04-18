@@ -2,7 +2,7 @@
 # Code Repository for *Journal of Intelligent Society* Papers
 
 本仓库用于存放本人在《智能社会研究》期刊发表论文的相关研究代码。每篇论文的代码独立存放，便于管理和复现。  
-This repository contains research code for my papers published in the *Intelligent Society Studies* journal. Each paper's code is organized in a separate folder for clarity and reproducibility.
+This repository contains research code for my papers published in the *Journal of Intelligent Society*. Each paper's code is organized in a separate folder for clarity and reproducibility.
 
 ## 许可协议 | License
 
